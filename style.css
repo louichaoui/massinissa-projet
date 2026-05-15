@@ -10,4 +10,5 @@ h1,h {
     font-size: 50 px;
     font-style: italic;
 }
-
+ #p1 {color: aqua;}
+ .p1 {color:red;}
