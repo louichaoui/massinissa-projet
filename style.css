@@ -5,10 +5,22 @@ body {
     margin: 50px;
 }
 
-h1,h { 
+h1{ 
     color: red;
-    font-size: 50 px;
+    font-size: 30px;
     font-style: italic;
+}
+h2,h3{ 
+    
+    font-size: 15px;
+    
 }
  #p1 {color: aqua;}
  .p1 {color:red;}
+
+
+ /*cibler une potion de texte avec div et span*/
+ .para {
+    background-color: green;
+    font-weight: 100px;
+}
