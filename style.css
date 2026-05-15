@@ -1,0 +1,13 @@
+
+/*je suis un commentaire */
+body {
+    background-color:bisque;
+    margin: 50px;
+}
+
+h1,h { 
+    color: red;
+    font-size: 50 px;
+    font-style: italic;
+}
+
